@@ -1,4 +1,4 @@
-package com.qikfix.auth;
+package com.qikfix.entities;
 
 import jakarta.persistence.*;
 

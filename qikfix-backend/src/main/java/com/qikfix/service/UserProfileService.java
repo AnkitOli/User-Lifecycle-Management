@@ -1,8 +1,9 @@
 package com.qikfix.service;
 
-import com.qikfix.auth.UserProfile;
+import com.qikfix.entities.UserProfile;
 
 public interface UserProfileService {
 
-       void onBoardUser(UserProfile userProfile);
+       void setupProfile(UserProfile userProfile);
+
 }

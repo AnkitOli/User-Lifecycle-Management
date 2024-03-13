@@ -1,7 +1,6 @@
 package com.qikfix.controller;
 import com.qikfix.service.LoginService;
-import com.qikfix.auth.Users;
-import com.qikfix.repository.UserRepository;
+import com.qikfix.entities.Users;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

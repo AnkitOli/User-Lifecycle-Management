@@ -1,7 +1,6 @@
 package com.qikfix.service;
 
-import com.qikfix.auth.UserProfile;
-import com.qikfix.auth.Users;
+import com.qikfix.entities.Users;
 import com.qikfix.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

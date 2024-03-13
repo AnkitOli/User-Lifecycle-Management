@@ -1,7 +1,6 @@
 package com.qikfix.repository;
 
-import com.qikfix.auth.UserProfile;
-import com.qikfix.auth.Users;
+import com.qikfix.entities.Users;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 import java.util.Optional;
